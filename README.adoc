@@ -1,4 +1,4 @@
-= 🏢 Jibimo API PHP Library
+= 🏢 Jibimo API Laravel Package
 Hesam Gholami <hesamgholami@yahoo.com>
 v1.0, 2019-06-16
 
